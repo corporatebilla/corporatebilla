@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Corporatebilla</h1>
+<h3 align="center">Just a Techie Memer</h3>
+
+- 🏢 I’m currently working at **HCL**
+
+- ⚡ Fun fact **Coding Catoo**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/corporatebilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="corporatebilla" height="30" width="40" /></a>
+</p>
 
 <!--
 **corporatebilla/corporatebilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
